@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCClient", "MVCClient\MVCC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScriptClient", "JavaScriptClient\JavaScriptClient.csproj", "{903154B6-0D34-438A-953A-C41DDB8E7D9C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerAspNetIdentity", "IdentityServerAspNetIdentity\IdentityServerAspNetIdentity.csproj", "{61D3AC0F-16C4-47C8-B2D7-9CB55DA16F1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{903154B6-0D34-438A-953A-C41DDB8E7D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{903154B6-0D34-438A-953A-C41DDB8E7D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{903154B6-0D34-438A-953A-C41DDB8E7D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D3AC0F-16C4-47C8-B2D7-9CB55DA16F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D3AC0F-16C4-47C8-B2D7-9CB55DA16F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D3AC0F-16C4-47C8-B2D7-9CB55DA16F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D3AC0F-16C4-47C8-B2D7-9CB55DA16F1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
